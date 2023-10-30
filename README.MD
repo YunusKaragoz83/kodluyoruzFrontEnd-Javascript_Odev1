@@ -1,0 +1,1 @@
+Burada Kodluyoruz front End patikasında ilk Javascript ödevini bulabilirsiniz.
